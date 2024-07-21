@@ -74,3 +74,5 @@ gem "devise", "~> 4.9"
 #font-awesome
 
 gem 'font-awesome-sass', '~> 6.5.1'
+
+gem 'erb_lint'
